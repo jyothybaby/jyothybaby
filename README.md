@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jyothybaby
-- 👀 I’m interested in Software Engineering
+- 👀 I’m interested in learning and mastering the art of Software Engineering
 - 🌱 I’m currently learning Full Stack Software Development 
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me jyothy.v.baby@gmail.com
